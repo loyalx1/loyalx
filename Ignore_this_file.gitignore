@@ -1,0 +1,2 @@
+/myenv  #ignore myenv from project to upload on github
+secret.key          # Ignore another specific file
